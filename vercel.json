@@ -2,7 +2,7 @@
   "version": 2,
   "builds": [
     {
-      "src": "payment.js",
+      "src": "api/payment.js",
       "use": "@vercel/node"
     }
   ],
