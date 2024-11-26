@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node api/payment.js"
   },
   "keywords": [],
   "author": "",
@@ -15,7 +15,5 @@
     "express": "^4.21.1",
     "stripe": "^17.3.1"
   },
-  "devDependencies": {
-    "vite": "^5.4.11"
-  }
+  "devDependencies": {}
 }
